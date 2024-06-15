@@ -12,7 +12,6 @@ import plotting
 import cb_dash
 import dms_dash
 import popup
-#pushing 
 
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("green")
